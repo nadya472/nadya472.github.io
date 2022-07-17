@@ -73,31 +73,31 @@ $count_users = mysqli_num_rows($users);
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../uas-sbd-klinik/modul dokter/dokter.php" aria-expanded="false" aria-controls="form-elements">
+            <a class="nav-link" href="modul dokter/dokter.php" aria-expanded="false" aria-controls="form-elements">
               <i class="icon-head menu-icon"></i>
               <span class="menu-title">Dokter</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../uas-sbd-klinik/modul pasien/pasien.php" aria-expanded="false" aria-controls="form-elements">
+            <a class="nav-link" href="modul pasien/pasien.php" aria-expanded="false" aria-controls="form-elements">
               <i class="icon-head menu-icon"></i>
               <span class="menu-title">Pasien</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../uas-sbd-klinik/modul obat/obat.php" aria-expanded="false" aria-controls="form-elements">
+            <a class="nav-link" href="modul obat/obat.php" aria-expanded="false" aria-controls="form-elements">
               <i class="icon-layout menu-icon"></i>
               <span class="menu-title">Obat</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../uas-sbd-klinik/modul berobat/berobat.php" aria-expanded="false" aria-controls="form-elements">
+            <a class="nav-link" href="modul berobat/berobat.php" aria-expanded="false" aria-controls="form-elements">
               <i class="icon-paper menu-icon"></i>
               <span class="menu-title">Rekam Medis</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../uas-sbd-klinik/modul auth/users.php" aria-expanded="false" aria-controls="form-elements">
+            <a class="nav-link" href="modul auth/users.php" aria-expanded="false" aria-controls="form-elements">
               <i class="icon-paper menu-icon"></i>
               <span class="menu-title">Data User</span>
             </a>
